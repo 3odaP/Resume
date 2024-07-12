@@ -2,4 +2,4 @@
 
 ## Результат вы можете посмотреть тут
 
-[Резюме](https://vladilen-courses.github.io/resume/)
+[Резюме](https://github.com/3odaP/Resume)
